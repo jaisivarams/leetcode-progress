@@ -43,4 +43,9 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaisivarams/leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/jaisivarams/leetcode-progress/tree/master/0367-valid-perfect-square) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/jaisivarams/leetcode-progress/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
